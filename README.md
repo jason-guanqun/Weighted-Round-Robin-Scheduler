@@ -1,4 +1,6 @@
 ## Implementation of a Linux Weight Round-Robin scheduler.
+## File changes
+The main file of implementation is in /kernel/kernel/sched/wrr.c
 ## Investigate and Demo
 First of all, test program is uploaded using `adb push`:
 ```
